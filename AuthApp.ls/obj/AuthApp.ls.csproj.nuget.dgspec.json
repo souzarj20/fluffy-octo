@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/bladerunner/RiderProjects/AuthApp.ls/AuthApp.ls/AuthApp.ls.csproj": {}
+    "/home/runner/work/fluffy-octo/fluffy-octo/AuthApp.ls/AuthApp.ls.csproj": {}
   },
   "projects": {
-    "/home/bladerunner/RiderProjects/AuthApp.ls/AuthApp.ls/AuthApp.ls.csproj": {
+    "/home/runner/work/fluffy-octo/fluffy-octo/AuthApp.ls/AuthApp.ls.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/bladerunner/RiderProjects/AuthApp.ls/AuthApp.ls/AuthApp.ls.csproj",
+        "projectUniqueName": "/home/runner/work/fluffy-octo/fluffy-octo/AuthApp.ls/AuthApp.ls.csproj",
         "projectName": "AuthApp.ls",
-        "projectPath": "/home/bladerunner/RiderProjects/AuthApp.ls/AuthApp.ls/AuthApp.ls.csproj",
-        "packagesPath": "/home/bladerunner/.nuget/packages/",
-        "outputPath": "/home/bladerunner/RiderProjects/AuthApp.ls/AuthApp.ls/obj/",
+        "projectPath": "/home/runner/work/fluffy-octo/fluffy-octo/AuthApp.ls/AuthApp.ls.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/work/fluffy-octo/fluffy-octo/AuthApp.ls/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/bladerunner/.nuget/NuGet/NuGet.Config"
+          "/home/runner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -67,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.119/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

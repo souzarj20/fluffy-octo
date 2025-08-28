@@ -9,47 +9,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AuthApp.ls
 build_property.RootNamespace = AuthApp.ls
-build_property.ProjectDir = /home/bladerunner/RiderProjects/AuthApp.ls/AuthApp.ls/
+build_property.ProjectDir = /home/runner/work/fluffy-octo/fluffy-octo/AuthApp.ls/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/bladerunner/RiderProjects/AuthApp.ls/AuthApp.ls
+build_property.MSBuildProjectDirectory = /home/runner/work/fluffy-octo/fluffy-octo/AuthApp.ls
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/bladerunner/RiderProjects/AuthApp.ls/AuthApp.ls/Components/App.razor]
+[/home/runner/work/fluffy-octo/fluffy-octo/AuthApp.ls/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bladerunner/RiderProjects/AuthApp.ls/AuthApp.ls/Components/Pages/Counter.razor]
+[/home/runner/work/fluffy-octo/fluffy-octo/AuthApp.ls/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Db3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bladerunner/RiderProjects/AuthApp.ls/AuthApp.ls/Components/Pages/Error.razor]
+[/home/runner/work/fluffy-octo/fluffy-octo/AuthApp.ls/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bladerunner/RiderProjects/AuthApp.ls/AuthApp.ls/Components/Pages/Home.razor]
+[/home/runner/work/fluffy-octo/fluffy-octo/AuthApp.ls/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bladerunner/RiderProjects/AuthApp.ls/AuthApp.ls/Components/Pages/Weather.razor]
+[/home/runner/work/fluffy-octo/fluffy-octo/AuthApp.ls/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9XZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bladerunner/RiderProjects/AuthApp.ls/AuthApp.ls/Components/Routes.razor]
+[/home/runner/work/fluffy-octo/fluffy-octo/AuthApp.ls/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bladerunner/RiderProjects/AuthApp.ls/AuthApp.ls/Components/_Imports.razor]
+[/home/runner/work/fluffy-octo/fluffy-octo/AuthApp.ls/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/bladerunner/RiderProjects/AuthApp.ls/AuthApp.ls/Components/Layout/MainLayout.razor]
+[/home/runner/work/fluffy-octo/fluffy-octo/AuthApp.ls/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-ahrz485ear
 
-[/home/bladerunner/RiderProjects/AuthApp.ls/AuthApp.ls/Components/Layout/NavMenu.razor]
+[/home/runner/work/fluffy-octo/fluffy-octo/AuthApp.ls/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-q59qqbcmdr
